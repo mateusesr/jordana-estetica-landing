@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esteticajordana.com.br/sitemap.xml

@@ -1,0 +1,72 @@
+/* =============================================
+   JORDANA — Make-up & Estética Avançada
+   /assets/css/custom.css  |  Design Tokens
+   ============================================= */
+
+:root {
+  /* — Palette — */
+  --clr-bg:         #FAF4F0;       /* creme quente */
+  --clr-surface:    #FFFFFF;
+  --clr-surface-2:  #F2E8E3;       /* rosa nude */
+  --clr-primary:    #6B1A2E;       /* vinho profundo */
+  --clr-primary-lt: #8D3048;       /* vinho médio */
+  --clr-accent:     #C4848A;       /* rosé */
+  --clr-accent-lt:  #E0B4B8;       /* rosé claro */
+  --clr-gold:       #C8A882;       /* dourado suave */
+  --clr-text:       #2A1018;       /* quase-preto vinhado */
+  --clr-text-muted: #7A5A60;
+  --clr-text-light: #B09098;
+  --clr-white:      #FFFFFF;
+  --clr-overlay:    rgba(107,26,46,.72);
+  --clr-footer:   #1A0810;        /* vinho escuro rodapé */
+
+  /* — Typography — */
+  --font-display:   'Cormorant Garamond', 'Georgia', serif;
+  --font-body:      'Jost', 'Helvetica Neue', sans-serif;
+  --font-script:    'Great Vibes', cursive;
+
+  /* — Scale — (leitura: xs→lg +1 passo; títulos xl→5xl mantidos) */
+  --text-xs:   0.8125rem;
+  --text-sm:   0.9375rem;
+  --text-base: 1.0625rem;
+  --text-md:   1.1875rem;
+  --text-lg:   1.4375rem;
+  --text-xl:   1.75rem;
+  --text-2xl:  2.25rem;
+  --text-3xl:  3rem;
+  --text-4xl:  4rem;
+  --text-5xl:  5.5rem;
+
+  /* — Spacing — */
+  --space-1:   0.25rem;
+  --space-2:   0.5rem;
+  --space-3:   0.75rem;
+  --space-4:   1rem;
+  --space-6:   1.5rem;
+  --space-8:   2rem;
+  --space-10:  2.5rem;
+  --space-12:  3rem;
+  --space-16:  4rem;
+  --space-20:  5rem;
+  --space-24:  6rem;
+  --space-32:  8rem;
+
+  /* — Layout — */
+  --container:  1200px;
+  --container-sm: 760px;
+  --radius-sm:  4px;
+  --radius:     12px;
+  --radius-lg:  24px;
+  --radius-pill: 999px;
+
+  /* — Shadows — */
+  --shadow-sm:  0 2px 8px rgba(107,26,46,.08);
+  --shadow:     0 8px 32px rgba(107,26,46,.12);
+  --shadow-lg:  0 20px 60px rgba(107,26,46,.18);
+  --shadow-xl:  0 32px 80px rgba(107,26,46,.24);
+
+  /* — Transitions — */
+  --ease:       cubic-bezier(.25,.46,.45,.94);
+  --ease-bounce: cubic-bezier(.34,1.56,.64,1);
+  --duration:   .35s;
+}

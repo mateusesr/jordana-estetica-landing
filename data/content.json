@@ -1,0 +1,227 @@
+{
+  "brand": {
+    "name": "Jordana",
+    "tagline": "Make-up & Estética Avançada",
+    "whatsapp": "54981341048",
+    "whatsapp_display": "54 9 8134-1048",
+    "instagram": "@estetajormakeup",
+    "instagram_url": "https://www.instagram.com/estetajormakeup/"
+  },
+  "hero": {
+    "eyebrow": "A Arte de",
+    "title": "Rejuvenescer:",
+    "subtitle": "Saúde, beleza e estética em um só propósito.",
+    "description": "Apresentamos uma abordagem que une o conhecimento científico e a excelência técnica para o rejuvenescimento, priorizando a saúde integral e a manutenção da sua beleza natural.",
+    "cta_primary": "Quero agendar minha avaliação",
+    "cta_secondary": "Ver resultados"
+  },
+  "manifesto": {
+    "eyebrow": "Nosso Manifesto",
+    "title": "A Essência da Estética Autoral.",
+    "items": [
+      {
+        "title": "Nossa filosofia baseia-se em resultados que unem naturalidade, conhecimento e qualidade.",
+        "text": "Dedicamo-nos a clientes (mulheres e homens) com o objetivo de resolver queixas estéticas, considerando fatores intrínsecos e extrínsecos, com foco na melhoria da aparência e qualidade de vida a longo prazo."
+      },
+      {
+        "title": "Busca por excelência e naturalidade:",
+        "text": "Você é o nosso cliente ideal se valoriza a segurança, a precisão técnica e o planejamento para resultados sutis, duradouros e que respeitam a sua identidade."
+      },
+      {
+        "title": "Compromisso e futuro:",
+        "text": "Nossa trajetória inclui a formação em Estética Avançada e a dedicação ao curso de Biomedicina, com mentorias especializadas para refinar a técnica injetora e garantir o mais alto padrão de segurança e eficácia nos procedimentos."
+      }
+    ]
+  },
+  "caminho": {
+    "eyebrow": "Caminho",
+    "title": "Profissional:",
+    "subtitle": "Conhecimento que se converte em confiança e segurança",
+    "paragraphs": [
+      "O compromisso com o conhecimento é inegociável. Nossa atuação vai além dos resultados visuais, sendo fundamentada na segurança do cliente.",
+      "A formação em Estética Avançada é complementada pela constante atualização, com foco em Biomedicina Estética e mentorias especializadas para aprimorar a precisão na técnica injetora."
+    ],
+    "aperfeicoamento_eyebrow": "Cada etapa de",
+    "aperfeicoamento_title": "Aperfeiçoamento",
+    "aperfeicoamento_text": "fortalece a capacidade de entregar resultados naturais, seguros e sustentáveis, baseados nos conhecimentos mais recentes da estética, cosmetologia e saúde da pele."
+  },
+  "diferenciais": {
+    "eyebrow": "Nossos 4 Diferenciais de Mercado:",
+    "title": "Excelência Garantida",
+    "items": [
+      {
+        "icon": "👤",
+        "title": "Atendimento 100% Humanizado e Personalizado:",
+        "text": "Diagnóstico individualizado com plano de tratamento desenhado exclusivamente para atender às suas necessidades."
+      },
+      {
+        "icon": "⏱",
+        "title": "Foco em Resultados Naturais e de Longo Prazo:",
+        "text": "Planejamento estratégico para evolução estética sustentável, que preserva a identidade facial."
+      },
+      {
+        "icon": "🧠",
+        "title": "Conhecimento Aprofundado em Estética:",
+        "text": "Expertise que engloba Estética Avançada, Cosmetologia e Saúde da Pele para resultados precisos."
+      },
+      {
+        "icon": "⭐",
+        "title": "Equipamentos de Alta Tecnologia e Padrão Ouro:",
+        "text": "Uso exclusivo de tecnologia de ponta, essencial para maximizar a eficácia e a segurança de todos os procedimentos."
+      }
+    ]
+  },
+  "processo": {
+    "eyebrow": "O Processo de",
+    "title": "Sucesso:",
+    "subtitle": "Sua jornada do diagnóstico ao resultado",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Avaliação Clínica Detalhada:",
+        "text": "Análise das queixas estéticas e da saúde da pele para traçar um plano de tratamento exclusivo e embasado."
+      },
+      {
+        "number": "2",
+        "title": "Plano de Tratamento Personalizado:",
+        "text": "Definição das técnicas, tecnologias e cronograma ideal para alcançar os objetivos com máxima naturalidade."
+      },
+      {
+        "number": "3",
+        "title": "Execução Técnica (Procedimento):",
+        "text": "Aplicação do tratamento com precisão e padrões de excelência, focando na segurança e no conforto do cliente."
+      },
+      {
+        "number": "4",
+        "title": "Acompanhamento Contínuo (Pós-tratamento):",
+        "text": "Suporte e monitoramento para garantir a longevidade dos resultados e a satisfação total."
+      }
+    ]
+  },
+  "solucoes": {
+    "eyebrow": "Soluções",
+    "title": "Com Precisão Técnica e Resultados Comprovados",
+    "items": [
+      {
+        "title": "Toxina Botulínica (Botox)",
+        "problem": "Linhas de expressão dinâmicas e estáticas.",
+        "benefit": "Rosto mais sereno, relaxamento muscular preventivo e tratamento de rugas.",
+        "img": "solucoes-1.jpg"
+      },
+      {
+        "title": "Bioestimuladores",
+        "problem": "Perda de firmeza e flacidez dérmica.",
+        "benefit": "Indução de colágeno, aumento de sustentação e rejuvenescimento gradual.",
+        "img": "solucoes-2.jpg"
+      },
+      {
+        "title": "Preenchimento Facial",
+        "problem": "Perda de volume, contornos desarmônicos (lábios, sulcos) e rugas profundas.",
+        "benefit": "Restauração da harmonia e volume facial com resultado natural e preciso.",
+        "img": "solucoes-3.jpg"
+      },
+      {
+        "title": "Fios de PDO",
+        "problem": "Sinais de ptose (queda) e perda de vitalidade da pele.",
+        "benefit": "Efeito lifting imediato e sutil, melhoria da textura e estímulo de colágeno.",
+        "img": "solucoes-4.jpg"
+      },
+      {
+        "title": "Saúde da Pele (Base)",
+        "problem": "Pele opaca, irregularidades de textura, manchas e poros.",
+        "benefit": "Base para excelência: pele saudável, luminosa e otimizada para procedimentos avançados.",
+        "img": "solucoes-5.jpg"
+      }
+    ]
+  },
+  "galeria": {
+    "eyebrow": "Galeria de",
+    "title": "Resultados",
+    "subtitle": "A Comprovação da Técnica.",
+    "description": "Nossa satisfação com a qualidade dos resultados é atestada. Estes casos demonstram a curadoria técnica minuciosa para o resultado mais natural e seguro.",
+    "aviso": "As imagens de antes e depois são de pacientes reais com autorização de uso. Resultados individuais podem variar.",
+    "items": [
+      { "antes": "galeria-1-antes.jpg", "depois": "galeria-1-depois.jpg", "descricao": "Resultado de harmonização facial com técnica autoral." },
+      { "antes": "galeria-2-antes.jpg", "depois": "galeria-2-depois.jpg", "descricao": "Tratamento de manchas e rejuvenescimento cutâneo." },
+      { "antes": "galeria-3-antes.jpg", "depois": "galeria-3-depois.jpg", "descricao": "Bioestimulação e melhora da firmeza facial." }
+    ]
+  },
+  "cursos": {
+    "eyebrow": "Cursos Profissionais",
+    "title": "Formação de Excelência",
+    "subtitle": "Para profissionais que buscam elevar seu padrão técnico.",
+    "items": [
+      {
+        "tag": "Curso 1",
+        "title": "Maquiagem Profissional",
+        "subtitle": "Aperfeiçoamento para profissionais da área",
+        "carga": "8 horas intensivas",
+        "descricao": "Curso exclusivo para profissionais da maquiagem que já atuam na área e desejam aperfeiçoar técnicas, elevar padrão de acabamento e aprofundar domínio técnico.",
+        "estrutura": [
+          {
+            "bloco": "3 Técnicas de Olhos",
+            "itens": [
+              "Duas técnicas demonstradas pela professora (Jor)",
+              "Uma técnica realizada com participação orientada da aluna"
+            ]
+          },
+          {
+            "bloco": "Técnica de Pele Profissional",
+            "itens": [
+              "Construção de pele estruturada",
+              "Correções e neutralizações",
+              "Selagem e acabamento",
+              "Durabilidade e performance"
+            ]
+          }
+        ],
+        "metodologia": [
+          "Demonstração prática",
+          "Aplicação supervisionada",
+          "Correção individual",
+          "Aperfeiçoamento de acabamento",
+          "Ajustes personalizados conforme dificuldade da aluna"
+        ],
+        "objetivo": "Aprimorar técnica, segurança e refinamento profissional, elevando o nível de entrega para clientes."
+      },
+      {
+        "tag": "Curso 2",
+        "title": "Limpeza de Pele Profissional",
+        "subtitle": "Curso intensivo com teoria e prática",
+        "carga": "8 horas (curso intensivo)",
+        "descricao": "Formação completa para desenvolver segurança técnica, entendimento fisiológico e domínio do protocolo completo de limpeza de pele.",
+        "estrutura": [
+          {
+            "bloco": "Manhã — Aula Teórica",
+            "itens": [
+              "Fundamentos da limpeza de pele",
+              "Fisiopatologia facial",
+              "Estrutura e funcionamento da pele",
+              "Identificação de tipos de pele",
+              "Indicações e contraindicações",
+              "Biossegurança"
+            ]
+          },
+          {
+            "bloco": "Tarde — Aula Prática",
+            "itens": [
+              "Passo a passo da limpeza de pele",
+              "Demonstração técnica",
+              "Execução prática supervisionada",
+              "Correção de movimentos e pressão",
+              "Protocolo completo"
+            ]
+          }
+        ],
+        "metodologia": [],
+        "objetivo": "Desenvolver segurança técnica, entendimento fisiológico e domínio do protocolo completo de limpeza de pele."
+      }
+    ]
+  },
+  "cta_final": {
+    "title": "Sua Confiança e Sua Beleza",
+    "subtitle": "São Nosso Maior Propósito.",
+    "description": "Agende uma avaliação técnica e descubra o seu rejuvenescimento mais seguro.",
+    "cta": "Quero Agendar Minha Avaliação Técnica com a Jordana."
+  }
+}
