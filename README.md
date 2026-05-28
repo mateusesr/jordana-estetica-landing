@@ -23,25 +23,17 @@ A estrutura do site foi desenvolvida sem dependência de frameworks ou back-end,
 
 ## Estrutura do projeto
 
-```txt
-assets/
-  css/
-    custom.css
-    style.css
-  img/
-  js/
-    main.js
-    modules/
-data/
-  content.json
-index.html
-robots.txt
-sitemap.xml
-
+- assets/css/custom.css
+- assets/css/style.css
+- assets/img/
+- assets/js/main.js
+- assets/js/modules/
+- data/content.json
+- index.html
+- robots.txt
+- sitemap.xml
 
 ## Autor
 
-Desenvolvido por Mateus Elias.
-
-Formado em Análise e Desenvolvimento de Sistemas pela UPF, programador e desenvolvedor web.
+Desenvolvido por Mateus Elias, formado em Análise e Desenvolvimento de Sistemas pela UPF, programador e desenvolvedor web.
 '@ | Set-Content -Encoding UTF8 README.md
