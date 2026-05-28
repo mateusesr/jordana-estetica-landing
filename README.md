@@ -1,5 +1,3 @@
-cd "C:\Sites\Jordana\esteticajordanasite"
-
 @'
 # Jordana Estética Avançada
 
@@ -36,4 +34,3 @@ A estrutura do site foi desenvolvida sem dependência de frameworks ou back-end,
 ## Autor
 
 Desenvolvido por Mateus Elias, formado em Análise e Desenvolvimento de Sistemas pela UPF, programador e desenvolvedor web.
-'@ | Set-Content -Encoding UTF8 README.md
